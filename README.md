@@ -6,7 +6,7 @@ Useful references for biostatistical programming.
 * [SAS](https://github.com/emera86/References/tree/master/SAS)
 * [R](https://github.com/emera86/References/tree/master/R)
 
-## Stats Therory
+## Stats Theory
 
 * [General references](https://github.com/emera86/References/tree/master/general-stats-and-probability)
 * [Survival Analysis](https://github.com/emera86/References/tree/master/survival-analysis)
