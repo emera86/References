@@ -1,5 +1,5 @@
 # References
-Useful references for biostatistical programming
+Useful references for biostatistical programming.
 
 ## Programming
 
