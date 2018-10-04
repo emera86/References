@@ -1,4 +1,4 @@
-https://stats.stackexchange.com/questions/220392/whats-the-difference-between-univariate-and-multivariate-cox-regression
+[What's the difference between univariate and multivariate cox regression?](https://stats.stackexchange.com/questions/220392/whats-the-difference-between-univariate-and-multivariate-cox-regression)
 
 I think that many people who use the words "multivariate regression" with Cox models really mean to say "multiple regression." "Multiple regression" means having more than one predictor in a regression model, while "multivariate regression" is a term perhaps better reserved for situations where there is more than one outcome variable being considered together. In a Cox regression you are typically modeling just a single outcome variable, survival of some sort.
 
@@ -8,6 +8,4 @@ These issues can be handled by Cox multiple regression, which gives you the best
 
 Note that there can be a true multivariate Cox regression that evaluates multiple types of outcome together (e.g., both recurrence and death times in cancer studies), or that treats multiple events on the same individual with multivariate techniques, as in standard multivariate linear regression. This paper is one often-cited reference, in case that is what you actually mean. But in my experience, I think most people in the clinical literature say "multivariate Cox regression" when they really mean "Cox multiple regression."
 
-================================================================================================================
-
-https://stats.stackexchange.com/questions/1053/references-for-survival-analysis
+[References for Survival Analysis](https://stats.stackexchange.com/questions/1053/references-for-survival-analysis)
