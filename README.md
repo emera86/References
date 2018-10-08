@@ -12,6 +12,8 @@ Useful references for biostatistical programming.
 * [Survival Analysis](https://github.com/emera86/References/tree/master/survival-analysis)
     * [Log rank vs Cox model](https://github.com/emera86/References/tree/master/survival-analysis/log-rank-vs-cox-model)
     * [Restricted mean survival time](https://github.com/emera86/References/tree/master/survival-analysis/restricted-mean-survival-time)
+* [Test types](https://github.com/emera86/References/tree/master/stats-test-types)
+    * [Wald vs likelihood ratio vs Lagrange multiplier test](https://github.com/emera86/References/tree/master/stats-test-types/wald-vs-likelihood-ratio-vs-lagrange-multiplier-test)
 
 ## Medical References on Clinical Trials
 
