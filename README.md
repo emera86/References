@@ -10,6 +10,8 @@ Useful references for biostatistical programming.
 
 * [General references](https://github.com/emera86/References/tree/master/general-stats-and-probability)
 * [Survival Analysis](https://github.com/emera86/References/tree/master/survival-analysis)
+    * [Log rank vs Cox model](https://github.com/emera86/References/tree/master/survival-analysis/log-rank-vs-cox-model)
+    * [Restricted mean survival time](https://github.com/emera86/References/tree/master/survival-analysis/restricted-mean-survival-time)
 
 ## Medical References on Clinical Trials
 
